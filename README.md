@@ -1,0 +1,1 @@
+# open-this-libraray-manager-code
